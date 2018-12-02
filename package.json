@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-basico",
+  "version": "1.0.0",
+  "description": "practice nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "# Curso básico de Node.js"
+  },
+  "author": "hackchan <fabiorojas7@gmail.com>",
+  "license": "MIT"
+}

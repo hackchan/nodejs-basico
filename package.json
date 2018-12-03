@@ -6,10 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "hackchan <fabiorojas7@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
   "repository": {
     "type": "git",
-    "url": "# Curso básico de Node.js"
+    "url": "git+https://github.com/hackchan/nodejs-basico.git"
   },
-  "author": "hackchan <fabiorojas7@gmail.com>",
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/hackchan/nodejs-basico/issues"
+  },
+  "homepage": "https://github.com/hackchan/nodejs-basico#readme"
 }

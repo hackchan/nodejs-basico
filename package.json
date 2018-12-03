@@ -4,7 +4,8 @@
   "description": "practice nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "cowsay Bienvendidos al curso de Nodejs."
   },
   "author": "hackchan <fabiorojas7@gmail.com>",
   "license": "MIT",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hackchan/nodejs-basico/issues"
   },
-  "homepage": "https://github.com/hackchan/nodejs-basico#readme"
+  "homepage": "https://github.com/hackchan/nodejs-basico#readme",
+  "dependencies": {
+    "cowsay": "^1.3.1"
+  }
 }

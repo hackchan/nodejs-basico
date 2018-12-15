@@ -1,0 +1,24 @@
+*******************************
+INTRO A LAS FUNCIONES SINCRONAS
+*******************************
+
+las funciones en terminos de sincronizado pueden ser:
+
+-Sincronicas
+************
+   - De accion bloqueante de hilo de proceso.
+   - No libera recursos hasta terminar
+
+-Asincronicas
+*************
+  - De accion no bloqueante del hilo de proceso (por delegacion)
+  - permite ejecion de otras instrucciones mientras finaliza.
+
+  Las implementaciones asincronas se utilizan para delegar
+  tareas intensivas  en ciclos de CPU, como por ejemplo:
+    
+     -Cifrado
+     -compresion
+     -proceso de datos
+     -peticion de red (HTTP, DNS, etc...)
+     -peticiones a servicios (Base de datos)
